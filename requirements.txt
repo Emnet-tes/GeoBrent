@@ -1,3 +1,5 @@
+# GeoBrent Project Requirements
+# Data analysis and visualization
 pandas
 numpy
 matplotlib
@@ -7,3 +9,16 @@ scikit-learn
 statsmodels
 jupyter
 openpyxl
+scipy
+
+# Dashboard Backend (Flask API)
+Flask
+Flask-CORS
+python-dateutil
+python-dotenv
+Werkzeug
+
+# Bayesian Analysis (for Task 2 notebooks)
+pymc
+pytensor
+arviz
